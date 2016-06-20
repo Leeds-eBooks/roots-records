@@ -1,7 +1,7 @@
 {
-  "name": "roots-records",
-  "version": "0.5.1",
-  "author": "Carrot Creative <dev@carrotcreative.com>",
+  "name": "roots-records-with-queue",
+  "version": "0.0.1",
+  "author": "Ben Styles",
   "description": "dynamic content functionality for roots",
   "license": "MIT",
   "keywords": [
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/carrot/roots-records.git"
+    "url": "https://github.com/Leeds-eBooks/roots-records.git"
   },
   "main": "lib",
   "dependencies": {
